@@ -1,0 +1,25 @@
+Practice Questions
+
+Answers:
+Q1) * - / and + are operators and 'hello' -88.8 and 5 are values.
+
+Q2) spam is a variable and 'spam' is a string
+
+Q3) Three data types are Integer, String and Float
+
+Q4) Expressions are made of variables, values and operators. All the expressions in python gives a single value thus it goes on simplifying till a single value remains.
+
+Q5) Statements represent an action or coommand. But and expression is a combination of variables, values and operators.
+
+Q6) After the following code runs the value of the varibale bacon becomes 21 as it is an integer and 1 gets added to it.
+
+Q7) 'spam' + 'spamspam'
+     'spam'*3
+    The answers to both the expressions will be 'spamspamspam' 
+
+Q8) There are certain conditions for the name of a variable. One of those conditions is that the name can't start with a number.
+
+Q9) int() function can be used to get an integer value, float() function can be used to get a decimal number and str() function can be used to get a string.
+
+Q10) 'I have eaten' + 99 + 'burritos.'
+This expression gives error because different data types are added together whcih is not possible. A string cannot be added to an integer.
