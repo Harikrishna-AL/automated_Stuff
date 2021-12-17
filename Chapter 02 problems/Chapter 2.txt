@@ -1,0 +1,45 @@
+Q1) The two values of the Boolean data type is True and False which is 1 and 0 in binary numbers. 
+Q2) The three Boolean operators are AND, OR and NOT 
+
+Q3) A | B  | output(A and B)|    A | B| output(A or B)|   A | output(not(A))|
+    0 | 0  |      0         |    0 | 0|      0        |   0 |       1       |
+    0 | 1  |      0         |    0 | 1|      1        |   1 |       0       |
+    1 | 0  |      0         |    1 | 0|      1        |   
+    1 | 1  |      1         |    1 | 1|      1        |
+
+Q4) (5 > 4) and (3 == 5)
+>> 1 and 0 = 0
+not(5 > 4)
+>> 0
+(5 > 4) or (3 == 5)
+>> 1 or 0 = 1
+not((5 > 4) or (3 == 5))
+>> not(1) = 0
+(True and True) and (True == Fasle)
+>> 1 and 0 = 0
+(not False) or (not True)
+>> 1 or 0 = 1
+
+Q5) The six comparison operators are =, <, >, <=, >=, <>
+
+Q6) The assignment operator assigns a value to a variable or constant whereas the equal to operator checks for equality between two datatypes.
+
+Q7) A condition is a brach in a program which leads to a different outcome depending on the condition. We can use one to do a certain task or operation only when a certain condition is met.
+
+Q8) 
+
+Q9) 
+spam = int(input())
+if (spam == 1):
+	print("Hello")
+elif (spam == 2):
+	print("Howdy")
+else:
+	print("Greetings")
+
+Q10) If your program is stuck in an infinite loop then we can press Ctrl + C to stop the program and close the IDE.
+
+Q11)The break statement breaks the loop after a condition is met whereas the continue statement continues with the loop when a certain condition is met.
+
+Q12) 
+    
